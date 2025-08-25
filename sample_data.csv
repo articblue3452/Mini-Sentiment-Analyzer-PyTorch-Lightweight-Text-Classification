@@ -1,0 +1,61 @@
+text,label
+I love MidMax so much!,positive
+This project is awesome and inspiring,positive
+What a fantastic day to build AI tools,positive
+"Your code works perfectly, great job",positive
+Absolutely thrilled with these results,positive
+"Brilliant idea, I’m excited to try it",positive
+Happy to collaborate and learn more,positive
+"This is excellent work, kudos team",positive
+I feel optimistic about this approach,positive
+The new update is amazing,positive
+"Great progress today, feeling motivated",positive
+Super clean and elegant solution,positive
+That tutorial was helpful and clear,positive
+The performance boost is impressive,positive
+"Works like a charm, thanks!",positive
+Love the UI and smooth UX,positive
+Beautiful visuals and solid results,positive
+"Hats off, this is next-level",positive
+"Everything compiled successfully, yay!",positive
+MidMax is the best idea ever,positive
+I hate when the script keeps crashing,negative
+This code is terrible and confusing,negative
+What a disappointing release,negative
+The results are bad and unreliable,negative
+"I’m frustrated, nothing is working",negative
+"Awful experience, I regret trying this",negative
+This is the worst tutorial I’ve seen,negative
+"Completely useless, a waste of time",negative
+It fails every single time,negative
+The model accuracy is poor,negative
+I dislike the design; it’s clunky,negative
+Terrible UI and broken features,negative
+The performance is painfully slow,negative
+I’m unhappy with these results,negative
+"No clarity at all, very bad",negative
+"Crashes repeatedly, I’m annoyed",negative
+Feels buggy and half-baked,negative
+"Horrible docs, can’t follow",negative
+This makes me sad and angry,negative
+It doesn’t work as promised,negative
+The meeting starts at 5 PM,neutral
+I will test the model tomorrow,neutral
+Documentation updated last night,neutral
+We need a CSV with two columns,neutral
+The server is currently offline,neutral
+I’m downloading the dataset now,neutral
+Push the code to the repo,neutral
+The file size is 25 MB,neutral
+The accuracy is 72 percent,neutral
+We scheduled a deployment,neutral
+Please review the pull request,neutral
+Train for 10 epochs today,neutral
+Restart the runtime and retry,neutral
+I’ll join the call in 10,neutral
+The GPU is not available,neutral
+Use Python 3.10 for this,neutral
+Send logs in the channel,neutral
+We’ll iterate on the design,neutral
+Create a new virtualenv,neutral
+Run tests before merging,neutral
